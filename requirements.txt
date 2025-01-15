@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+mysql-connector-python
+requests
+python-dotenv
+pydantic
+gunicorn
+
+pip uninstall facerecognition
+pip uninstall cmake
+Delete face.py
